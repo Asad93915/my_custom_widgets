@@ -38,6 +38,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "concentric_transition",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/concentric_transition-1.0.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4",
       "packageUri": "lib/",
@@ -152,7 +158,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-12-17T11:46:11.330444Z",
+  "generated": "2021-12-20T11:41:19.652374Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
